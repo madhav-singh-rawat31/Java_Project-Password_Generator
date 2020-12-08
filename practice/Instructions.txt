@@ -1,0 +1,2 @@
+Please run all the Files using the JAR exectable file or the .exe file,
+OR run all the Files in a single package in Eclipse or any other IDE.
